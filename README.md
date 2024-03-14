@@ -7,7 +7,6 @@ Hi! My name is Writwik Sati 🙂
 - ⚡ Fun fact: There is no fun in being a fact.
 
 - Skills
-- 
 HTML, CSS, JavaScript, Basics of C/C++, React and PhP
 <!---
 Writwiks/Writwiks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
