@@ -1,13 +1,13 @@
 Hi! My name is Writwik Sati 🙂
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in Front end Development
+- 🌱 I’m currently working in Ingversions Digital as React Developer
 - 💞️ I’m looking to collaborate on Frontend Projects 
 - 📫 How to reach me writwiksati674@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There is no fun in being a fact.
 
 - Skills
-HTML, CSS, JavaScript, Basics of C/C++, React and PhP
+HTML, CSS, JavaScript, Basics of C and React
 <!---
 Writwiks/Writwiks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
